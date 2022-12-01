@@ -9,10 +9,13 @@ Thus some fixing works must be done first.
 
 
 
-## reference 
+## reference  
+
 
 [torch docs](https://pytorch.org/docs/stable/notes/randomness.html)  
+
 [blog (ko)](https://hoya012.github.io/blog/reproducible_pytorch/)  
+I recommend visiting this blog!
 
 
 
